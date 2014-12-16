@@ -14,7 +14,6 @@ setuptools.setup(
     install_requires=[
         'argparse',
         'httplib2',
-        'setuptools',
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
